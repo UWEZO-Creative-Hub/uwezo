@@ -50,7 +50,7 @@ export default function Home() {
               Get Started <ArrowRight className="ml-2" />
             </Button>
           </Link>
-          <Link href="/projects">
+          <Link href="/products">
             <Button
               variant="outline"
               className="px-8 py-6 text-lg bg-white dark:text-black"
